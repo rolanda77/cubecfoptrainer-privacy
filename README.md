@@ -1,15 +1,28 @@
-# Datenschutzerklärung – CFOP/Fridrich-Algorithmen-Trainer
+# Impressum & Datenschutzerklärung – CFOP/Fridrich-Algorithmen-Trainer
+
+## Impressum
+
+Angaben gemäß § 5 DDG (vormals § 5 TMG):
+
+Roland Albrecht
+Im Jägeracker 42
+79312 Emmendingen
+Deutschland
+
+Kontakt: rca@quantentunnel.de
+
+## Datenschutzerklärung
 
 Stand: 19.09.2026
 
-## 1. Verantwortlicher
+### 1. Verantwortlicher
 
 Roland Albrecht
 E-Mail: rca@quantentunnel.de
 
 Verantwortlich im Sinne der Datenschutz-Grundverordnung (DSGVO) für die im Folgenden beschriebene Datenverarbeitung ist die oben genannte Person als Entwickler der App "CFOP/Fridrich-Algorithmen-Trainer" (im Folgenden "die App").
 
-## 2. Kurzübersicht
+### 2. Kurzübersicht
 
 Die App erhebt, speichert und überträgt **keine personenbezogenen Daten an den Entwickler oder an Dritte**. Es gibt:
 
@@ -20,7 +33,7 @@ Die App erhebt, speichert und überträgt **keine personenbezogenen Daten an den
 
 Alle innerhalb der App entstehenden Daten verbleiben ausschließlich lokal auf dem Gerät der Nutzerin bzw. des Nutzers.
 
-## 3. Welche Daten werden lokal auf dem Gerät gespeichert?
+### 3. Welche Daten werden lokal auf dem Gerät gespeichert?
 
 Damit die App ihre Trainingsfunktionen (Algorithmen-Training, Lernpfad, Spaced-Repetition-Wiederholung) erfüllen kann, speichert sie folgende Daten **ausschließlich lokal in einer Datenbank auf dem jeweiligen Gerät**:
 
@@ -32,19 +45,19 @@ Damit die App ihre Trainingsfunktionen (Algorithmen-Training, Lernpfad, Spaced-R
 
 Diese Daten werden technisch mittels einer lokalen Room-Datenbank (SQLite) sowie lokaler Einstellungsspeicherung (SharedPreferences) auf dem Gerät abgelegt. Es handelt sich dabei nicht um eine Übermittlung an den Entwickler – niemand außer der Person, die das Gerät nutzt, hat Zugriff auf diese Daten.
 
-## 4. Keine Datenübertragung, kein Server, kein Konto
+### 4. Keine Datenübertragung, kein Server, kein Konto
 
 Die App benötigt und besitzt keine Internetzugriffsberechtigung. Es findet daher zu keinem Zeitpunkt eine Übertragung von Daten an den Entwickler, an Google oder an sonstige Dritte über die App selbst statt. Es gibt kein Nutzerkonto, keine Registrierung und keine Cloud-Synchronisation.
 
-## 5. Keine Analyse-, Tracking- oder Werbedienste
+### 5. Keine Analyse-, Tracking- oder Werbedienste
 
 Die App enthält keinerlei Analyse-Software (z. B. Firebase Analytics), keine Absturzberichts-Dienste (z. B. Crashlytics) und keine Werbe-SDKs. Es werden keine Nutzungsprofile erstellt, kein Standort ermittelt und keine Werbe-ID ausgelesen.
 
-## 6. App-Berechtigungen
+### 6. App-Berechtigungen
 
 Die App fordert keine besonderen Gerätezugriffs-Berechtigungen (z. B. keinen Zugriff auf Kamera, Standort, Kontakte, Mikrofon oder Internet) an.
 
-## 7. Speicherdauer und Löschung
+### 7. Speicherdauer und Löschung
 
 Die in Abschnitt 3 genannten Daten verbleiben so lange lokal auf dem Gerät gespeichert, bis sie:
 
@@ -53,19 +66,19 @@ Die in Abschnitt 3 genannten Daten verbleiben so lange lokal auf dem Gerät gesp
 
 Da keine Daten außerhalb des Geräts gespeichert werden, ist mit der Deinstallation der App keine weitere Kopie der Daten mehr vorhanden.
 
-## 8. Rechte der betroffenen Person
+### 8. Rechte der betroffenen Person
 
 Da die App keine personenbezogenen Daten an den Entwickler überträgt, liegen sämtliche in Abschnitt 3 genannten Daten ausschließlich im unmittelbaren Zugriff und unter der vollständigen Kontrolle der Nutzerin bzw. des Nutzers selbst (Auskunft, Berichtigung und Löschung erfolgen direkt über die App bzw. durch Deinstallation). Für Fragen zum Datenschutz in Bezug auf die App kann dennoch jederzeit der in Abschnitt 1 genannte Kontakt genutzt werden.
 
-## 9. Minderjährige
+### 9. Minderjährige
 
 Die App richtet sich nicht gezielt an Kinder und erhebt unabhängig vom Alter der Nutzerin bzw. des Nutzers keinerlei personenbezogene Daten.
 
-## 10. Änderungen dieser Datenschutzerklärung
+### 10. Änderungen dieser Datenschutzerklärung
 
 Diese Datenschutzerklärung kann bei Bedarf angepasst werden, etwa wenn neue App-Funktionen eine Aktualisierung erforderlich machen. Die jeweils aktuelle Fassung ist unter der im Play-Store-Eintrag verlinkten Adresse (dieser Seite) abrufbar.
 
-## 11. Kontakt
+### 11. Kontakt
 
 Bei Fragen zu dieser Datenschutzerklärung oder zur App wenden Sie sich bitte an:
 
