@@ -13,7 +13,7 @@ Kontakt: rca@quantentunnel.de
 
 ## Datenschutzerklärung
 
-Stand: 19.09.2026
+Stand: 20.09.2026
 
 ### 1. Verantwortlicher
 
@@ -45,40 +45,44 @@ Damit die App ihre Trainingsfunktionen (Algorithmen-Training, Lernpfad, Spaced-R
 
 Diese Daten werden technisch mittels einer lokalen Room-Datenbank (SQLite) sowie lokaler Einstellungsspeicherung (SharedPreferences) auf dem Gerät abgelegt. Es handelt sich dabei nicht um eine Übermittlung an den Entwickler – niemand außer der Person, die das Gerät nutzt, hat Zugriff auf diese Daten.
 
-### 4. Keine Datenübertragung, kein Server, kein Konto
+### 4. Backup-Funktion (lokale Sicherungsdatei)
+
+Die App bietet im Einstellungsmenü optional die Möglichkeit, eine lokale Sicherungsdatei (Backup) der Erfolgsstatistik, der favorisierten Algorithmen-Varianten und der selbst gespeicherten Algorithmen zu erstellen sowie eine zuvor erstellte Sicherungsdatei wieder zu laden. Die Datei wird ausschließlich über den vom Betriebssystem bereitgestellten Dateiauswahl-Dialog an einem von der Nutzerin/dem Nutzer selbst gewählten Speicherort abgelegt bzw. von dort gelesen – die App wählt keinen Speicherort automatisch und überträgt die Datei zu keinem Zeitpunkt an den Entwickler oder an Dritte. Wählt die Nutzerin/der Nutzer als Speicherort einen cloud-synchronisierten Ordner (z. B. eine Drive- oder OneDrive-Integration des Geräts), unterliegt die weitere Verarbeitung dieser Datei den Datenschutzbestimmungen des jeweiligen Cloud-Anbieters, nicht denen dieser App.
+
+### 5. Keine Datenübertragung, kein Server, kein Konto
 
 Die App benötigt und besitzt keine Internetzugriffsberechtigung. Es findet daher zu keinem Zeitpunkt eine Übertragung von Daten an den Entwickler, an Google oder an sonstige Dritte über die App selbst statt. Es gibt kein Nutzerkonto, keine Registrierung und keine Cloud-Synchronisation.
 
-### 5. Keine Analyse-, Tracking- oder Werbedienste
+### 6. Keine Analyse-, Tracking- oder Werbedienste
 
 Die App enthält keinerlei Analyse-Software (z. B. Firebase Analytics), keine Absturzberichts-Dienste (z. B. Crashlytics) und keine Werbe-SDKs. Es werden keine Nutzungsprofile erstellt, kein Standort ermittelt und keine Werbe-ID ausgelesen.
 
-### 6. App-Berechtigungen
+### 7. App-Berechtigungen
 
-Die App fordert keine besonderen Gerätezugriffs-Berechtigungen (z. B. keinen Zugriff auf Kamera, Standort, Kontakte, Mikrofon oder Internet) an.
+Die App fordert keine besonderen Gerätezugriffs-Berechtigungen (z. B. keinen Zugriff auf Kamera, Standort, Kontakte, Mikrofon oder Internet) an. Die Backup-Funktion (Abschnitt 4) verwendet den systemeigenen Dateiauswahl-Dialog (Storage Access Framework), der keine zusätzliche Berechtigung erfordert.
 
-### 7. Speicherdauer und Löschung
+### 8. Speicherdauer und Löschung
 
 Die in Abschnitt 3 genannten Daten verbleiben so lange lokal auf dem Gerät gespeichert, bis sie:
 
 - über die in der App integrierten Funktionen zurückgesetzt werden (z. B. "Statistik zurücksetzen" oder "Eigene Algorithmen löschen" im Einstellungsmenü), oder
 - durch Deinstallation der App vollständig vom Gerät entfernt werden.
 
-Da keine Daten außerhalb des Geräts gespeichert werden, ist mit der Deinstallation der App keine weitere Kopie der Daten mehr vorhanden.
+Da keine Daten außerhalb des Geräts gespeichert werden, ist mit der Deinstallation der App keine weitere Kopie der Daten mehr vorhanden – mit Ausnahme einer von der Nutzerin/dem Nutzer selbst erstellten Backup-Datei (Abschnitt 4), die unabhängig von der App an ihrem gewählten Speicherort bestehen bleibt und bei Bedarf selbst gelöscht werden kann.
 
-### 8. Rechte der betroffenen Person
+### 9. Rechte der betroffenen Person
 
 Da die App keine personenbezogenen Daten an den Entwickler überträgt, liegen sämtliche in Abschnitt 3 genannten Daten ausschließlich im unmittelbaren Zugriff und unter der vollständigen Kontrolle der Nutzerin bzw. des Nutzers selbst (Auskunft, Berichtigung und Löschung erfolgen direkt über die App bzw. durch Deinstallation). Für Fragen zum Datenschutz in Bezug auf die App kann dennoch jederzeit der in Abschnitt 1 genannte Kontakt genutzt werden.
 
-### 9. Minderjährige
+### 10. Minderjährige
 
 Die App richtet sich nicht gezielt an Kinder und erhebt unabhängig vom Alter der Nutzerin bzw. des Nutzers keinerlei personenbezogene Daten.
 
-### 10. Änderungen dieser Datenschutzerklärung
+### 11. Änderungen dieser Datenschutzerklärung
 
 Diese Datenschutzerklärung kann bei Bedarf angepasst werden, etwa wenn neue App-Funktionen eine Aktualisierung erforderlich machen. Die jeweils aktuelle Fassung ist unter der im Play-Store-Eintrag verlinkten Adresse (dieser Seite) abrufbar.
 
-### 11. Kontakt
+### 12. Kontakt
 
 Bei Fragen zu dieser Datenschutzerklärung oder zur App wenden Sie sich bitte an:
 
