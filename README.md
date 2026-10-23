@@ -1,5 +1,7 @@
 # Impressum & Datenschutzerklärung – CFOP/Fridrich-Algorithmen-Trainer
 
+**Deutsch (maßgeblich)** · [Français](README.fr.md) · [Italiano](README.it.md) · [Español](README.es.md)
+
 ## Impressum
 
 Angaben gemäß § 5 DDG (vormals § 5 TMG):
