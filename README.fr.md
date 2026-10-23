@@ -1,6 +1,6 @@
 # Mentions légales et politique de confidentialité – CFOP Trainer
 
-[Deutsch (version de référence)](README.md) · **Français** · [Italiano](README.it.md) · [Español](README.es.md)
+[Deutsch (version de référence)](README.md) · [English](README.en.md) · **Français** · [Italiano](README.it.md) · [Español](README.es.md)
 
 *Traduction de courtoisie. En cas de divergence, seule la version allemande fait foi.*
 
